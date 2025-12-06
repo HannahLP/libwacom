@@ -128,7 +128,7 @@
      id="DialGroup">
       <circle
      id="Dial"
-     class="Dial"
+     class="TouchDial Dial"
      cx="30.5"
      cy="71"
      r="10" />
